@@ -1,0 +1,24 @@
+{
+  "version": "1.3.46",
+  "files": [
+    "next.config.mjs",
+    "components/schema.tsx",
+    "components/blocks.tsx",
+    "components/mockup-page.tsx",
+    "components/reusables.tsx",
+    "components/sidebars.tsx",
+    "components/header-layout.tsx",
+    "app/[...slug]/page.tsx",
+    "app/page.tsx",
+    "app/layout.tsx",
+    "app/sitemap.ts",
+    "app/llms.txt/route.ts",
+    "public/_headers",
+    "functions/admin/[[path]].js",
+    "functions/_middleware.js"
+  ],
+  "remove": [
+    "app/ai.txt/route.ts",
+    "content/ai.txt"
+  ]
+}
