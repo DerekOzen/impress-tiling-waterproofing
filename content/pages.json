@@ -675,7 +675,7 @@
   },
   {
     "id": "pg-43",
-    "path": "/services-bathroom-renovations",
+    "path": "/services/bathroom-renovations",
     "type": "service",
     "title": "Bathroom Renovations Sydney | Full Bathroom & Laundry | Impress",
     "seoTitle": "Bathroom Renovations Sydney | Full Bathroom & Laundry | Impress",
@@ -683,10 +683,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-09T06:07:42.826Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:07:42.826Z",
+    "updatedAt": "2026-10-09T06:12:45.852Z",
     "updatedBy": "joshua"
   },
   {
