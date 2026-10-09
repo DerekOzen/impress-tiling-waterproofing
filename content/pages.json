@@ -15,5 +15,21 @@
     "createdAt": "2026-10-09T05:43:48.239Z",
     "createdBy": "vipin",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/index",
+    "type": "page",
+    "title": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
+    "seoTitle": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
+    "seoDescription": "Tiling and waterproofing specialists across Sydney since 2006. Leaking shower and balcony repairs, regrouting, resealing, tile repairs and bathroom renovations. Free quotes, open 7 days.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-09T05:53:03.128Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-09T05:53:03.128Z",
+    "updatedBy": "joshua"
   }
 ]
