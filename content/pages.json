@@ -660,7 +660,7 @@
   {
     "id": "pg-42",
     "path": "/services",
-    "type": "page",
+    "type": "service",
     "title": "Tiling & Waterproofing Services Sydney | Impress Tiling & Waterproofing",
     "seoTitle": "Tiling & Waterproofing Services Sydney | Impress Tiling & Waterproofing",
     "seoDescription": "Tiling and waterproofing services in Sydney. Tiling services, waterproofing services, leak repair services, regrouting services and bathroom tiling services from one team. Free quotes, open 7 days.",
@@ -670,7 +670,7 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:04:06.877Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:04:06.877Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
@@ -836,7 +836,7 @@
   {
     "id": "pg-53",
     "path": "/services/regrouting/tile-and-grout-sealing",
-    "type": "page",
+    "type": "service",
     "title": "Tile, Grout & Stone Sealing Sydney | Penetrating Sealers | Impress",
     "seoTitle": "Tile, Grout & Stone Sealing Sydney | Penetrating Sealers | Impress",
     "seoDescription": "Tile sealing, grout sealing and natural stone sealing in Sydney. What a penetrating sealer for tiles does, including travertine sealing and grout sealer application. Free quotes, open 7 days.",
@@ -846,13 +846,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-54",
     "path": "/services/tile-repairs",
-    "type": "page",
+    "type": "service",
     "title": "Tile Repairs Sydney | Cracked, Loose & Drummy Tiles | Impress",
     "seoTitle": "Tile Repairs Sydney | Cracked, Loose & Drummy Tiles | Impress",
     "seoDescription": "Tile repairs in Sydney. Cracked tile repair, loose tile repair and drummy tiles repair, including shower tile repair and replacing a broken tile where hollow sounding tiles are found. Free quotes.",
@@ -862,13 +862,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-55",
     "path": "/services/tiling",
-    "type": "page",
+    "type": "service",
     "title": "Tilers Sydney | Tiling Services | Impress Tiling & Waterproofing",
     "seoTitle": "Tilers Sydney | Tiling Services | Impress Tiling & Waterproofing",
     "seoDescription": "Tilers in Sydney since 2006. Residential tiling and commercial tiling, wall and floor tiling, installed to AS 3958 by tiling contractors who waterproof as well. Free quotes, open 7 days.",
@@ -878,13 +878,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-56",
     "path": "/services/tiling/bathroom-tiling",
-    "type": "page",
+    "type": "service",
     "title": "Bathroom Tiling Sydney | Bathroom Tiler | Impress Tiling & Waterproofing",
     "seoTitle": "Bathroom Tiling Sydney | Bathroom Tiler | Impress Tiling & Waterproofing",
     "seoDescription": "Bathroom tiling in Sydney. Bathroom wall tiling, bathroom floor tiling and shower tiling by bathroom tilers who install the waterproofing too. Free quotes on retiling a bathroom, open 7 days.",
@@ -894,13 +894,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-57",
     "path": "/services/tiling/commercial-tiling",
-    "type": "page",
+    "type": "service",
     "title": "Commercial Tiling Sydney | Retail, Hospitality & Strata | Impress",
     "seoTitle": "Commercial Tiling Sydney | Retail, Hospitality & Strata | Impress",
     "seoDescription": "Commercial tiling in Sydney. Retail tiling, hospitality tiling, office tiling and strata tiling from commercial tiling contractors, staged around trading hours. Shop fitout tiling, open 7 days.",
@@ -910,13 +910,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-58",
     "path": "/services/tiling/floor-tiling",
-    "type": "page",
+    "type": "service",
     "title": "Floor & Wall Tiling Sydney | Large Format Tilers | Impress Tiling",
     "seoTitle": "Floor & Wall Tiling Sydney | Large Format Tilers | Impress Tiling",
     "seoDescription": "Floor tiling and wall tiling in Sydney. Large format tiling and porcelain floor tiling over screed or sheet, with the substrate corrected first. Floor tiling services quoted free, open 7 days.",
@@ -926,13 +926,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-59",
     "path": "/services/tiling/kitchen-tiling",
-    "type": "page",
+    "type": "service",
     "title": "Kitchen Tiling Sydney | Splashbacks, Floors & Feature Walls | Impress",
     "seoTitle": "Kitchen Tiling Sydney | Splashbacks, Floors & Feature Walls | Impress",
     "seoDescription": "Kitchen tiling in Sydney. Kitchen floor tiling, kitchen wall tiling and kitchen feature wall tiling, set out around cooktops and power points. Kitchen tiling services for renovations, open 7 days.",
@@ -942,13 +942,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-60",
     "path": "/services/tiling/kitchen-tiling/kitchen-splashbacks",
-    "type": "page",
+    "type": "service",
     "title": "Kitchen Splashback Tiling Sydney | Splashback Tiler | Impress",
     "seoTitle": "Kitchen Splashback Tiling Sydney | Splashback Tiler | Impress",
     "seoDescription": "Kitchen splashback tiling in Sydney. Tiled splashback installation in subway tile, mosaic and herringbone, set out from the cooktop. Splashback tiler quotes free, open 7 days.",
@@ -958,13 +958,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-61",
     "path": "/services/tiling/natural-stone-tiling",
-    "type": "page",
+    "type": "service",
     "title": "Natural Stone Tiling Sydney | Travertine, Marble & Sandstone | Impress",
     "seoTitle": "Natural Stone Tiling Sydney | Travertine, Marble & Sandstone | Impress",
     "seoDescription": "Natural stone tiling in Sydney. Travertine tiling, sandstone tiling, limestone tiling and marble tiling, plus stone cladding installation and natural stone paving. Free quotes, open 7 days.",
@@ -974,13 +974,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-62",
     "path": "/services/tiling/outdoor-tiling",
-    "type": "page",
+    "type": "service",
     "title": "Outdoor Tiling Sydney | Terraces, Patios & Stairs | Impress Tiling",
     "seoTitle": "Outdoor Tiling Sydney | Terraces, Patios & Stairs | Impress Tiling",
     "seoDescription": "Outdoor tiling in Sydney. Patio tiling, terrace tiling, courtyard tiling and outdoor stairs tiling, with falls and drainage sorted first. External tiling quoted free, open 7 days.",
@@ -990,13 +990,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:09:59.445Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:09:59.445Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-63",
     "path": "/services/tiling/outdoor-tiling/balcony-tiling",
-    "type": "page",
+    "type": "service",
     "title": "Balcony Tiling Sydney | Balcony & Terrace Tilers | Impress Tiling",
     "seoTitle": "Balcony Tiling Sydney | Balcony & Terrace Tilers | Impress Tiling",
     "seoDescription": "Balcony tiling in Sydney. Balcony retiling, balcony tile replacement and apartment balcony tiling, with the thresholds and falls checked first. Balcony tiler quotes free, open 7 days.",
@@ -1006,13 +1006,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:11:32.899Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:11:32.899Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-64",
     "path": "/services/tiling/pool-tiling",
-    "type": "page",
+    "type": "service",
     "title": "Pool Tiling Sydney | Waterline, Interior & Coping | Impress Tiling",
     "seoTitle": "Pool Tiling Sydney | Waterline, Interior & Coping | Impress Tiling",
     "seoDescription": "Swimming pool tiling in Sydney. Pool waterline tiling, glass mosaic pool tiling, pool coping tiling, spa tiling and pool surround tiling. Pool tiler quotes free, open 7 days.",
@@ -1022,13 +1022,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:11:32.899Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:11:32.899Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-65",
     "path": "/services/waterproofing",
-    "type": "page",
+    "type": "service",
     "title": "Waterproofing Sydney | Wet Area & Balcony Waterproofing | Impress",
     "seoTitle": "Waterproofing Sydney | Wet Area & Balcony Waterproofing | Impress",
     "seoDescription": "Waterproofing services in Sydney since 2006. Wet area waterproofing to AS 3740 and external work to AS 4654, from residential waterproofing contractors who tile as well. Free quotes, open 7 days.",
@@ -1038,13 +1038,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:11:32.899Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:11:32.899Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-66",
     "path": "/services/waterproofing/balcony-waterproofing",
-    "type": "page",
+    "type": "service",
     "title": "Balcony Waterproofing Sydney | AS 4654 Membranes | Impress",
     "seoTitle": "Balcony Waterproofing Sydney | AS 4654 Membranes | Impress",
     "seoDescription": "Balcony waterproofing in Sydney to AS 4654. Terrace waterproofing, podium waterproofing and deck waterproofing, with the balcony membrane laid after the falls are corrected. Free quotes.",
@@ -1054,13 +1054,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:11:32.899Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:11:32.899Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-67",
     "path": "/services/waterproofing/bathroom-waterproofing",
-    "type": "page",
+    "type": "service",
     "title": "Bathroom Waterproofing Sydney | Shower & Wet Area | Impress",
     "seoTitle": "Bathroom Waterproofing Sydney | Shower & Wet Area | Impress",
     "seoDescription": "Bathroom waterproofing in Sydney. Shower waterproofing, ensuite waterproofing and laundry waterproofing, with the waterproofing membrane installed to AS 3740 before tiling. Free quotes.",
@@ -1070,13 +1070,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:11:32.899Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:11:32.899Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-68",
     "path": "/services/waterproofing/commercial-strata-waterproofing",
-    "type": "page",
+    "type": "service",
     "title": "Commercial & Strata Waterproofing Sydney | Common Property | Impress",
     "seoTitle": "Commercial & Strata Waterproofing Sydney | Common Property | Impress",
     "seoDescription": "Commercial waterproofing and strata waterproofing in Sydney. Common property waterproofing, podium deck waterproofing, car park deck waterproofing and planter box waterproofing, to AS 4654.",
@@ -1086,13 +1086,13 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:11:32.899Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:11:32.899Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
     "id": "pg-69",
     "path": "/services/waterproofing/remedial-waterproofing",
-    "type": "page",
+    "type": "service",
     "title": "Remedial Waterproofing Sydney | Failed Membrane Repair | Impress",
     "seoTitle": "Remedial Waterproofing Sydney | Failed Membrane Repair | Impress",
     "seoDescription": "Remedial waterproofing in Sydney. Waterproofing repair and membrane repair where a failed waterproofing membrane has to be replaced, with the cause established before rewaterproofing.",
@@ -1102,7 +1102,7 @@
     "status": "draft",
     "createdAt": "2026-10-09T06:11:32.899Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T06:11:32.899Z",
+    "updatedAt": "2026-10-09T06:15:41.893Z",
     "updatedBy": "joshua"
   },
   {
