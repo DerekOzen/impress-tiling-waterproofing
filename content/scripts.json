@@ -1,0 +1,5 @@
+{
+  "header": "",
+  "body": "(() => { const s = document.querySelector('[data-reveal]') || document.querySelector('.lv-stage');\n  console.log({stage: !!s, range: !!(s && s.querySelector('.lv-range')),\n    split: !!(s && s.querySelector('.lv-split')), ready: s && s.getAttribute('data-reveal-ready'),\n    p: s && getComputedStyle(s).getPropertyValue('--p'),\n    scripts: document.querySelectorAll('script').length}); })()",
+  "footer": ""
+}
