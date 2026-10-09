@@ -9,9 +9,9 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-10-09T05:43:48.239Z",
-    "updatedBy": "vipin",
+    "status": "published",
+    "updatedAt": "2026-10-09T05:44:26.340Z",
+    "updatedBy": "derek",
     "createdAt": "2026-10-09T05:43:48.239Z",
     "createdBy": "vipin"
   }
