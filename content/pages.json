@@ -1208,7 +1208,7 @@
   },
   {
     "id": "pg-73",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
@@ -1217,9 +1217,10 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-10-13T00:23:18.206Z",
+    "updatedAt": "2026-10-13T00:23:40.112Z",
     "updatedBy": "vipin",
     "createdAt": "2026-10-13T00:19:08.916Z",
-    "createdBy": "vipin"
+    "createdBy": "vipin",
+    "isHome": true
   }
 ]
