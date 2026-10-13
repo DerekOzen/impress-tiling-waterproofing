@@ -1199,12 +1199,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-09T06:44:07.238Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-09T07:47:51.896Z",
-    "updatedBy": "joshua",
-    "isHome": true
+    "updatedAt": "2026-10-13T00:22:27.233Z",
+    "updatedBy": "vipin",
+    "isHome": false
   },
   {
     "id": "pg-73",
