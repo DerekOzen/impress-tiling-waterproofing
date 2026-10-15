@@ -682,11 +682,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-15T01:59:27.555Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-15T02:05:50.650Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-15T04:35:41.232Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-44",
