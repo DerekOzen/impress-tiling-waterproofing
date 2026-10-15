@@ -1100,9 +1100,11 @@
     "status": "published",
     "createdAt": "2026-10-15T03:50:08.149Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-15T03:50:33.251Z",
-    "updatedBy": "joshua",
-    "isHome": true
+    "updatedAt": "2026-10-15T22:20:55.898Z",
+    "updatedBy": "sebastian",
+    "isHome": true,
+    "featuredImage": "/uploads/featured-tiling-waterproofing-sydney-impress-tiling-waterpr-3rnc8.jpg",
+    "featuredImageAlt": "Tiling & Waterproofing in Sydney"
   },
   {
     "id": "pg-72",
