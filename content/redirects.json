@@ -1,5 +1,17 @@
 [
   {
+    "from": "/services/bathroom-renovations/renovation-packages",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T04:36:05.278Z"
+  },
+  {
+    "from": "/tiling-waterproofing-sydney-impress-tiling-waterproofing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T04:36:05.278Z"
+  },
+  {
     "from": "/about-us",
     "to": "/about",
     "code": 301,
