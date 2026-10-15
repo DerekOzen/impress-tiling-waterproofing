@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/tiling-waterproofing-sydney-impress-tiling-waterproofing",
     "type": "page",
     "title": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
     "seoTitle": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
@@ -12,9 +12,9 @@
     "status": "published",
     "createdAt": "2026-10-15T01:46:29.423Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-15T01:47:03.280Z",
+    "updatedAt": "2026-10-15T03:50:33.251Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -1122,7 +1122,7 @@
   },
   {
     "id": "pg-71",
-    "path": "/impress-tiling-homepage-updated-service-images",
+    "path": "/",
     "type": "page",
     "title": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
     "seoTitle": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
@@ -1130,10 +1130,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-15T03:50:08.149Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-15T03:50:08.149Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-15T03:50:33.251Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
