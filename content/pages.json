@@ -1,22 +1,5 @@
 [
   {
-    "id": "pg-1",
-    "path": "/tiling-waterproofing-sydney-impress-tiling-waterproofing",
-    "type": "page",
-    "title": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
-    "seoTitle": "Tiling & Waterproofing Sydney | Impress Tiling & Waterproofing",
-    "seoDescription": "Tiling and waterproofing specialists across Sydney since 2006. Leaking shower and balcony repairs, regrouting, resealing, tile repairs and bathroom renovations. Free quotes, open 7 days.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "createdAt": "2026-10-15T01:46:29.423Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-15T03:52:08.277Z",
-    "updatedBy": "joshua",
-    "isHome": false
-  },
-  {
     "id": "pg-2",
     "path": "/about",
     "type": "page",
@@ -671,23 +654,6 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-15T02:05:50.650Z",
     "updatedBy": "joshua"
-  },
-  {
-    "id": "pg-43",
-    "path": "/services/bathroom-renovations/renovation-packages",
-    "type": "service",
-    "title": "Bathroom Renovation Packages Sydney | What Is Included | Impress",
-    "seoTitle": "Bathroom Renovation Packages Sydney | What Is Included | Impress",
-    "seoDescription": "Bathroom renovation packages in Sydney. What is included in a bathroom renovation package, what drives bathroom renovation cost, and how to compare a bathroom renovation quote. Free quotes.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "createdAt": "2026-10-15T01:59:27.555Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-15T04:35:41.232Z",
-    "updatedBy": "joshua",
-    "isHome": false
   },
   {
     "id": "pg-44",
