@@ -1,5 +1,437 @@
 [
   {
+    "from": "/services/leak-repairs/leaking-balcony-repairs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/404",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/thank-you",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/terms-and-conditions",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/waterproofing/remedial-waterproofing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/waterproofing/commercial-strata-waterproofing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/waterproofing/bathroom-waterproofing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/waterproofing/balcony-waterproofing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/waterproofing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/pool-tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/outdoor-tiling/balcony-tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/outdoor-tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/natural-stone-tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/kitchen-tiling/kitchen-splashbacks",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/kitchen-tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/floor-tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/commercial-tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling/bathroom-tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tiling",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/tile-repairs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/regrouting/tile-and-grout-sealing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/regrouting/shower-sealing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/regrouting/shower-regrouting",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/regrouting/grout-repairs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/regrouting/epoxy-regrouting",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/regrouting",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/leak-repairs/leaking-shower-repairs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services-leak-repairs-leaking-balcony-repairs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/leak-repairs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/bathroom-renovations/renovation-packages",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services/bathroom-renovations",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/services",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/resources",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/projects",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/privacy-policy",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/contact",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-western-sydney",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-sutherland-shire",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-st-ives-chase",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-st-george",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-seven-hills",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-ryde",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-randwick",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-prestons",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-penrith",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-parramatta",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-north-sydney",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-north-shore",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-northern-beaches",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-mosman",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-merrylands",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-marrickville",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-liverpool",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-inner-west",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-hornsby",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-hills-district",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-greystanes",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-eastern-suburbs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-chatswood",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-castle-hill",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-carlingford",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-campbelltown",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-camden",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-burwood",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-bondi-junction",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-blacktown",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-baulkham-hills",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-bankstown",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw/tiler-balmain",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/areas-we-service/nsw",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/about",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
+    "from": "/tiling-waterproofing-sydney-impress-tiling-waterproofing",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-15T01:41:14.884Z"
+  },
+  {
     "from": "/about-us",
     "to": "/about",
     "code": 301,
