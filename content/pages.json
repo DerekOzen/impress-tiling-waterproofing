@@ -1137,5 +1137,21 @@
     "updatedAt": "2026-10-15T03:50:33.251Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-72",
+    "path": "/services/bathroom-renovations/renovation-packages",
+    "type": "service",
+    "title": "Bathroom Renovation Packages Sydney | Prices & Inclusions | Impress",
+    "seoTitle": "Bathroom Renovation Packages Sydney | Prices & Inclusions | Impress",
+    "seoDescription": "Three bathroom renovation packages in Sydney, from $15,800 inc. GST. See what each package includes, what sits outside it, and how to compare a bathroom renovation quote. Free quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-15T04:35:54.748Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-15T04:35:54.748Z",
+    "updatedBy": "joshua"
   }
 ]
