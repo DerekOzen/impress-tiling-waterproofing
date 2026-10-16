@@ -1,0 +1,291 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mvaciiwz-5lpb",
+      "at": "2026-10-16T02:25:44.003Z",
+      "count": 70,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-A8336AD5"
+        },
+        {
+          "path": "/services",
+          "newRecordId": "SCHEMA-22A80A33"
+        },
+        {
+          "path": "/services/tiling",
+          "newRecordId": "SCHEMA-E3E482C5"
+        },
+        {
+          "path": "/services/tiling/bathroom-tiling",
+          "newRecordId": "SCHEMA-392E906B"
+        },
+        {
+          "path": "/services/tiling/commercial-tiling",
+          "newRecordId": "SCHEMA-EFDBCB3A"
+        },
+        {
+          "path": "/services/tiling/floor-tiling",
+          "newRecordId": "SCHEMA-5759415B"
+        },
+        {
+          "path": "/services/tiling/kitchen-tiling",
+          "newRecordId": "SCHEMA-7536B654"
+        },
+        {
+          "path": "/services/tiling/kitchen-tiling/kitchen-splashbacks",
+          "newRecordId": "SCHEMA-125917FC"
+        },
+        {
+          "path": "/services/tiling/natural-stone-tiling",
+          "newRecordId": "SCHEMA-34E4C6B3"
+        },
+        {
+          "path": "/services/tiling/outdoor-tiling",
+          "newRecordId": "SCHEMA-75FA2234"
+        },
+        {
+          "path": "/services/tiling/outdoor-tiling/balcony-tiling",
+          "newRecordId": "SCHEMA-D3E759BF"
+        },
+        {
+          "path": "/services/tiling/pool-tiling",
+          "newRecordId": "SCHEMA-5297DD37"
+        },
+        {
+          "path": "/services/waterproofing",
+          "newRecordId": "SCHEMA-3D54556D"
+        },
+        {
+          "path": "/services/waterproofing/balcony-waterproofing",
+          "newRecordId": "SCHEMA-15C58624"
+        },
+        {
+          "path": "/services/waterproofing/bathroom-waterproofing",
+          "newRecordId": "SCHEMA-57AD7A83"
+        },
+        {
+          "path": "/services/waterproofing/commercial-strata-waterproofing",
+          "newRecordId": "SCHEMA-FEC90C2C"
+        },
+        {
+          "path": "/services/waterproofing/remedial-waterproofing",
+          "newRecordId": "SCHEMA-D945B86E"
+        },
+        {
+          "path": "/services/leak-repairs",
+          "newRecordId": "SCHEMA-B2F4D7B3"
+        },
+        {
+          "path": "/services/leak-repairs/leaking-balcony-repairs",
+          "newRecordId": "SCHEMA-396BF518"
+        },
+        {
+          "path": "/services/leak-repairs/leaking-shower-repairs",
+          "newRecordId": "SCHEMA-1289073C"
+        },
+        {
+          "path": "/services/regrouting",
+          "newRecordId": "SCHEMA-1A43E4DE"
+        },
+        {
+          "path": "/services/regrouting/epoxy-regrouting",
+          "newRecordId": "SCHEMA-4F4BAD01"
+        },
+        {
+          "path": "/services/regrouting/grout-repairs",
+          "newRecordId": "SCHEMA-D09AD501"
+        },
+        {
+          "path": "/services/regrouting/shower-regrouting",
+          "newRecordId": "SCHEMA-A88FC11B"
+        },
+        {
+          "path": "/services/regrouting/shower-sealing",
+          "newRecordId": "SCHEMA-1B4C5BF3"
+        },
+        {
+          "path": "/services/regrouting/tile-and-grout-sealing",
+          "newRecordId": "SCHEMA-29D1E519"
+        },
+        {
+          "path": "/services/tile-repairs",
+          "newRecordId": "SCHEMA-FC79D084"
+        },
+        {
+          "path": "/services/bathroom-renovations",
+          "newRecordId": "SCHEMA-5189A8FE"
+        },
+        {
+          "path": "/services/bathroom-renovations/renovation-packages",
+          "newRecordId": "SCHEMA-41A8403B"
+        },
+        {
+          "path": "/areas-we-service/nsw",
+          "newRecordId": "SCHEMA-813EBE67"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-eastern-suburbs",
+          "newRecordId": "SCHEMA-BC8B4D1A"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-hills-district",
+          "newRecordId": "SCHEMA-49C95849"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-inner-west",
+          "newRecordId": "SCHEMA-0A37BC4F"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-north-shore",
+          "newRecordId": "SCHEMA-F5D6CE24"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-northern-beaches",
+          "newRecordId": "SCHEMA-81E91BB7"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-st-george",
+          "newRecordId": "SCHEMA-2D1DE516"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-sutherland-shire",
+          "newRecordId": "SCHEMA-C014CE81"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-western-sydney",
+          "newRecordId": "SCHEMA-71A2CC68"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-balmain",
+          "newRecordId": "SCHEMA-4E118AF6"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-bankstown",
+          "newRecordId": "SCHEMA-907ACAA5"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-baulkham-hills",
+          "newRecordId": "SCHEMA-F4D9049A"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-blacktown",
+          "newRecordId": "SCHEMA-55A74075"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-bondi-junction",
+          "newRecordId": "SCHEMA-15E67C23"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-burwood",
+          "newRecordId": "SCHEMA-CE89B37C"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-camden",
+          "newRecordId": "SCHEMA-FF06FAA7"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-campbelltown",
+          "newRecordId": "SCHEMA-72BF3B10"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-carlingford",
+          "newRecordId": "SCHEMA-4E43A346"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-castle-hill",
+          "newRecordId": "SCHEMA-754FF9DC"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-chatswood",
+          "newRecordId": "SCHEMA-D607A6CE"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-greystanes",
+          "newRecordId": "SCHEMA-CF3ACA80"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-hornsby",
+          "newRecordId": "SCHEMA-C99615CA"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-liverpool",
+          "newRecordId": "SCHEMA-DC953A44"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-marrickville",
+          "newRecordId": "SCHEMA-CAE659B9"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-merrylands",
+          "newRecordId": "SCHEMA-B7347CC6"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-mosman",
+          "newRecordId": "SCHEMA-A0A71716"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-north-sydney",
+          "newRecordId": "SCHEMA-3E11389C"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-parramatta",
+          "newRecordId": "SCHEMA-213D7626"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-penrith",
+          "newRecordId": "SCHEMA-BC7A117E"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-prestons",
+          "newRecordId": "SCHEMA-A10B10CC"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-randwick",
+          "newRecordId": "SCHEMA-9D015178"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-ryde",
+          "newRecordId": "SCHEMA-AA87015B"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-seven-hills",
+          "newRecordId": "SCHEMA-9D001A8A"
+        },
+        {
+          "path": "/areas-we-service/nsw/tiler-st-ives-chase",
+          "newRecordId": "SCHEMA-F9619B29"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-63F4D012"
+        },
+        {
+          "path": "/contact",
+          "newRecordId": "SCHEMA-BE75E48B"
+        },
+        {
+          "path": "/projects",
+          "newRecordId": "SCHEMA-57670DA3"
+        },
+        {
+          "path": "/resources",
+          "newRecordId": "SCHEMA-6B7BA7AE"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-E1E1D509"
+        },
+        {
+          "path": "/terms-and-conditions",
+          "newRecordId": "SCHEMA-129D81B4"
+        },
+        {
+          "path": "/thank-you",
+          "newRecordId": "SCHEMA-87B2CDF8"
+        }
+      ]
+    }
+  ]
+}
